@@ -23,10 +23,10 @@ const hul = () => {
                     <p>
                         This web application was built for the capstone project of All Star
                         Code's Summer Intensive Program. The application's goal and design
-                        was centered around simplifying fitness. Firebase was used to authenticate 
+                        were centered around simplifying fitness. Firebase was used to authenticate 
                         users and store information about their health and goals. Based on
-                        provided measurements and fitness goals, simple meal plans and exercise 
-                        routines were provided to users daily.
+                        provided measurements and fitness goals, daily meals and exercise 
+                        routines were provided to users.
                     </p>
                     <Link href="https://github.com/razac9/DemoDayProject/tree/main">
                         <button className='px-8 py-2 mt-4 mr-8'>Code</button>
